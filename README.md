@@ -11,3 +11,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,html,css,git,github,)](https://skillicons.dev)
 
+### 🌐 Connect With Me
+
+<a href="https://www.Linkedin.com/in/maximum-soares/" target="blank">
+ <img src="https://skillicons.dev/icons?i=Linkedin" alt="LinkedIn">
+</a>
+
