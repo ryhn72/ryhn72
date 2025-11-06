@@ -9,6 +9,9 @@
 
  Welcome to my GitHub profile! I’m passionate about coding, problem-solving, and building meaningful digital experiences. I love exploring new technologies, contributing to open-source projects, and continuously improving my skills.  
 
+
+### Skills
+
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,html,css,git,github,)](https://skillicons.dev)
 
 ### 🌐 Connect With Me
@@ -16,3 +19,10 @@
   <a href="https://www.linkedin.com/in/rayhan-mohammadi-aaa050347/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+   <a href="https://www.linkedin.com/in/rayhan-mohammadi-aaa050347/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+   <a href="https://www.linkedin.com/in/rayhan-mohammadi-aaa050347/">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+  
