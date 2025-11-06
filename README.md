@@ -19,10 +19,8 @@
   <a href="https://www.linkedin.com/in/rayhan-mohammadi-aaa050347/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-   <a href="https://www.linkedin.com/in/rayhan-mohammadi-aaa050347/">
+   <a href="https://www.instagram.com/ryhn_xahoo05?igsh=MThjeWtlNXluaDBkbQ== ">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-   <a href="https://www.linkedin.com/in/rayhan-mohammadi-aaa050347/">
-    <img src="https://skillicons.dev/icons?i=telegram" />
-  </a>
+
   
