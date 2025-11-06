@@ -21,10 +21,7 @@
   </a>
    <a href="https://www.instagram.com/ryhn_xahoo05?igsh=MThjeWtlNXluaDBkbQ== ">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  </a>
-   <a href="rayhanmohammadi076@gmail.com ">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+   </a>
+  
 
   
