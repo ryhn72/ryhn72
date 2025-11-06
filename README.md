@@ -13,7 +13,6 @@
 
 ### 🌐 Connect With Me
 
-<a href="https://www.Linkedin.com/in/maximum-soares/" target="blank">
- <img src="https://skillicons.dev/icons?i=Linkedin" alt="LinkedIn">
-</a>
-
+  <a href="https://www.linkedin.com/in/rayhan-mohammadi-aaa050347/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
